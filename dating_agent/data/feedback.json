@@ -1,0 +1,32 @@
+[
+  {
+    "user_id": "u001",
+    "feedback": [
+      {
+        "candidate_id": "c001",
+        "like": true,
+        "reason": "他喜歡露營跟攝影"
+      },
+      {
+        "candidate_id": "c002",
+        "like": false,
+        "reason": "不喜歡夜店生活"
+      }
+    ]
+  },
+  {
+    "user_id": "u002",
+    "feedback": [
+      {
+        "candidate_id": "c003",
+        "like": true,
+        "reason": "有在咖啡店寫作"
+      },
+      {
+        "candidate_id": "c004",
+        "like": false,
+        "reason": "看起來太愛玩了"
+      }
+    ]
+  }
+]

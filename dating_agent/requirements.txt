@@ -1,0 +1,6 @@
+torch
+transformers
+openai-clip
+
+sentence-transformers
+Pillow

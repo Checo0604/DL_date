@@ -1,0 +1,14 @@
+[
+  {
+    "id": "u123",
+    "description": "我喜歡爬山、露營、拍照、咖啡店。",
+    "likes": ["露營", "咖啡", "攝影"],
+    "dislikes": ["抽菸", "夜生活"],
+    "state": {
+      "new_user": false,
+      "many_dislikes": true,
+      "feedback_given": true,
+      "liked_recently": false
+    }
+  }
+]
